@@ -1,17 +1,19 @@
-# Simple Todo App
+Description:
+This project is a to-do list web application built using JavaScript classes and modules. Users can add, check off, and delete tasks. The application features form validation with live feedback, ensuring tasks are correctly entered before submission.
 
-Give a brief description of the project here. Feel free to give it a different name.
+Key features include:
 
-## Functionality
+Object-Oriented Design: Uses Todo and FormValidator classes to organize code.
 
-Give a more detailed explanation of the project and its functionality.
+Dynamic Todo Management: Add new todos with unique IDs, mark tasks as complete, and delete tasks.
 
-## Technology
+Form Validation: Prevents invalid input, highlights errors, and disables the submit button until inputs are valid.
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+Module-Based Structure: Organized using ES6 modules for components (Todo.js, FormValidator.js) and utilities (constants.js).
 
-## Deployment
+Persistent & Scalable: Designed to be easily extended with additional features like due dates, categories, or storage.
 
-This project is deployed on GitHub Pages:
+Technologies Used: HTML, CSS, JavaScript (ES6+), GitHub Pages for deployment.
 
-
+link:
+https://github.com/melohere16/se_project_todo-app
