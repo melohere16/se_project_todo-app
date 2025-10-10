@@ -16,4 +16,4 @@ Persistent & Scalable: Designed to be easily extended with additional features l
 Technologies Used: HTML, CSS, JavaScript (ES6+), GitHub Pages for deployment.
 
 link:
-https://github.com/melohere16/se_project_todo-app
+https://melohere16.github.io/se_project_todo-app/
