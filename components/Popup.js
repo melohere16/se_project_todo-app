@@ -1,4 +1,3 @@
-// components/Popup.js
 class Popup {
   constructor(popupSelector) {
     this._popup = document.querySelector(popupSelector);
